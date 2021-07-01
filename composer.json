@@ -1,0 +1,19 @@
+{
+    "name": "gestion/vendor",
+    "authors": [
+        {
+            "name": "Demba Ndiaye",
+            "email": "ndemba86@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "ism\\": "."
+        }
+    },
+    
+    "require": {
+        "ext-pdo":"*"
+    }
+}
